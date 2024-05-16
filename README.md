@@ -4,7 +4,7 @@ Course- Cross Platform Application Development
 
 BITS ID- 2021MT70562
 
-Assignment 1 - A new Flutter project
+Assignment 1- A new Flutter project
 
 # Quick Task App
 ## Stay on top of your tasks with our Quick Task App
